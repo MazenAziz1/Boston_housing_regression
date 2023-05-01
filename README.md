@@ -24,5 +24,5 @@ For the record, before implementation of any data visualization or modelling cod
 + visualize some actual and predicted results
 # Why this project is noteworthy?
 Implementation of this project applying whatever regression algorithm you prefer could be the stepping stone to the world of machine learning especially the regression part. Besides, the simplicity of this dataset will really motivate you to explore more challenges later.
-# You can findout more about this dataet
+# You can findout more about this dataset
 [boston Housing](https://scikit-learn.org/0.19/modules/generated/sklearn.datasets.load_boston.html)
